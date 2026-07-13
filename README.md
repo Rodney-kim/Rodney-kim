@@ -9,7 +9,7 @@ Welcome to my github profile
 - Join me on this journey as I navigate the world Tech.
 
 <p align="left">
-  <p>I'm Rodney<p>
+
   <img src="https://raw.githubusercontent.com/mutaician/mutaician/output/neural_network_graph.svg" alt="Neural Network Contribution Graph" />
 </p>
 
