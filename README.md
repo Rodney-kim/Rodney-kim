@@ -1,6 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0FF704&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rodney+Kimutai;Exploring+Tech;Escaping+the+matrix)](https://git.io/typing-svg)
-
-
 ### A SOFTWARE DEVELOPER IN KENYA
 
 - 🔭 I'm currently working on **AI projects**
