@@ -1,12 +1,13 @@
-## Hi there welcome to my github profile 👋
+## Hi there
+Welcome to my github profile
 
-- 📫 How to reach me on:
+- 📫 Here's how you can reach me:
 - email rodneykimutai41@gmail.com.
 - instagram roddo.rk
 - whatsapp 0794160870
 - X @rodney_kem27930
-- 
-- Join me on this journey as I navigate the world of Tech.  
+- Join me on this journey as I navigate the world Tech.
+-Fun fact   
   
 
 
