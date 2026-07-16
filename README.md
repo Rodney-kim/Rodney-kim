@@ -1,4 +1,5 @@
-### A SOFTWARE DEVELOPER IN KENYA
+### HI THERE MY NAME IS RODNEY
+A SOFTWARE DEVELOPER IN KENYA
 
 - 🔭 I'm currently working on **AI projects**
   
